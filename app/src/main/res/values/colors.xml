@@ -8,11 +8,6 @@
     <color name="amarillo">#F8B619</color>
     <color name="piel">#FED6C0</color>
     <color name="blanco_bajo">#f9f6f5</color>
-    <!-- <color name="azul_oscuro">#0B1A4B</color>
-    <color name="verde_oscuro">#16272E</color> -->
 
-    <!-- Icono de advertencia Analisis-->
-    <color name="colorPrimerGrado">#17C36B</color>
-    <color name="colorSegundoGrado">#EDBE00</color>
-    <color name="colorTercerGrado">#E23E44</color>
+#aqui son los colores de los iconos Y ELIMINE LOS DE ADVERTENCIA
 </resources>
