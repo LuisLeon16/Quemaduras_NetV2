@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">Quemaduras IA</string>
+
+    <!-- Menu -->
+    <string name="menu_inicio">Inicio</string>
+    <string name="menu_contactos">Contactos</string>
+    <string name="menu_informacion">Información</string>
+
+    <!-- Onboarding -->
+    <string name="txt_title1">Identifica la Quemadura</string>
+    <string name="txt_description1">Analiza el grado de la quemadura con IA \npara obtener un diagnóstico inicial preciso</string>
+    <string name="txt_title2">Contactos de Emergencia</string>
+    <string name="txt_description2">Explora un directorio de números de emergencia \ny conecta con ayuda de inmediato</string>
+    <string name="txt_title3">Primeros Auxilios</string>
+    <string name="txt_description3">Aprende cómo actuar con instrucciones \nclaras para tratar quemaduras</string>
+
+    <!-- Welcome -->
+    <string name="txt_welcome">Asistencia en\nquemaduras</string>
+
+    <!-- Botones -->
+    <string name="btn_welcome">Empecemos</string>
+
+    <!-- Inicio -->
+    <string name="txt_inicio1">¿En qué te podemos ayudar?</string>
+    <string name="txt_card1_inicio">Tomar una foto</string>
+    <string name="txt_card2_inicio">Buscar en galería</string>
+
+    <!-- Analisis -->
+    <string name="txt_analisis1">Quemadura de primer grado</string>
+    <string name="txt_recomendaciones_primer_grado">
+        Enfría la zona afectada bajo agua corriente fría durante 10 a 20 minutos. No utilices agua muy fría ni hielo.
+        \n\nQuítate anillos, relojes u objetos ajustados de la zona antes de que se hinche.
+        \n\nAplica una loción con aloe vera o crema hidratante para aliviar el dolor y mantener la piel hidratada.
+        \n\nCubre la quemadura con un vendaje limpio y holgado para proteger la piel y aliviar el dolor.
+        \n\nDe ser necesario, toma un analgésico de venta libre como ibuprofeno o paracetamol.
+    </string>
+    <string name="txt_recomendaciones_segundo_grado">
+        No revientes las ampollas, ya que estas protegen la piel subyacente y evitan infecciones.
+        \n\nEnfría la quemadura bajo agua corriente fría durante 10 minutos o aplica compresas húmedas y frescas.
+        \n\nAplica una crema antibiótica, si es recomendada por un médico, y cubre la quemadura con una gasa estéril.
+        \n\nEleva la zona afectada por encima del nivel del corazón para reducir la hinchazón.
+        \n\nBusca atención médica si la quemadura afecta áreas sensibles (cara, manos, pies, ingle) o es extensa.
+    </string>
+    <string name="txt_recomendaciones_tercer_grado">
+        Llama de inmediato a los servicios de emergencia o busca atención médica especializada.
+        \n\nMientras esperas ayuda, cubre la zona afectada con un paño limpio y seco. No uses agua ni cremas.
+        \n\nQuítale joyas, cinturones u objetos ajustados cerca de la zona afectada para prevenir complicaciones por hinchazón.
+        \n\nVerifica si la persona respira y proporciona respiración de rescate si es necesario y sabes cómo hacerlo.
+        \n\nObserva signos de shock como piel fría, húmeda, respiración superficial o pulso débil, y mantén a la persona cómoda hasta que llegue la ayuda.
+    </string>
+    <string name="txt_recomendaciones_indeterminadas">
+        Si la quemadura es extensa o afecta áreas sensibles (cara, manos, pies, ingle), busca atención médica inmediata, independientemente de su grado.
+        \n\nEnfría la zona afectada con agua corriente fresca durante 10 a 20 minutos. No uses hielo ni agua extremadamente fría.
+        \n\nSi hay ampollas, no las rompas, ya que pueden proteger la piel subyacente de infecciones.
+        \n\nCubre la quemadura con un paño limpio o una gasa estéril. Evita aplicar cremas o pomadas sin la recomendación de un médico.
+        \n\nMantén la zona afectada elevada para reducir la hinchazón, si es posible.
+        \n\nSi experimentas signos de shock como piel fría, húmeda, respiración superficial o pulso débil, busca ayuda médica urgente.
+        \n\nSi la quemadura es causada por sustancias químicas o eléctricas, busca atención médica de emergencia lo más pronto posible.
+    </string>
+    <string name="txt_nota"><b>Nota:</b> Este diagnóstico es preliminar. Es fundamental que consultes a un médico para obtener una evaluación y tratamiento definitivos.</string>
+    <string name="enlace_oms">https://www.who.int/es/news-room/fact-sheets/detail/burns</string>
+    <string name="enlace_paraguay">https://www.mspbs.gov.py/portal/27866/quemaduras-que-hacer-y-que-no-hacer.html</string>
+    <string name="enlace_mayo">https://www.mayoclinic.org/es/first-aid/first-aid-burns/basics/art-20056649</string>
+
+    <!-- Información -->
+    <string name="txt_title_info1">¿Cómo prevenir las quemaduras?</string>
+    <string name="txt_title_info2">Guía de primeros auxilios</string>
+    <string name="txt_title_info3">Grados de quemaduras</string>
+    <string name="txt_title_info4">Reanimación inicial y manejo de líquidos en pacientes con quemaduras</string>
+
+    <!-- Detalle Información -->
+    <string name="txt_description1_detalleinfo">La prevención de quemaduras es fundamental, especialmente para proteger a las personas más vulnerables. Factores como ocupaciones con exposición al fuego, el hacinamiento, y la falta de medidas de seguridad en el hogar aumentan significativamente el riesgo. Además, actividades cotidianas como cocinar o cuidar a niños pequeños pueden convertirse en situaciones peligrosas en hogares que carecen de las precauciones necesarias.
+    \n\nCondiciones de salud como la epilepsia, discapacidades físicas y cognitivas, junto con el consumo excesivo de alcohol y el tabaquismo, incrementan aún más la vulnerabilidad a sufrir quemaduras. Otros factores críticos incluyen el acceso a químicos peligrosos, el uso de queroseno para cocinar, y la falta de seguridad en el manejo de gas y electricidad.
+    \n\nUn plan de prevención efectivo debe involucrar a toda la comunidad. Es esencial <b>aumentar la conciencia</b> sobre los riesgos de quemaduras, desarrollar y <b>hacer cumplir políticas de seguridad</b>, y ofrecer <b>programas educativos</b>. Además, se deben <b>mejorar el diseño de cocinas y viviendas</b>, reducir la temperatura del agua caliente, y promover el uso de <b>detectores de humo y salidas de emergencia</b>. Estas medidas prácticas pueden marcar la diferencia y salvar vidas.
+    \n\n<i>Fuente: Boletín epidemiológico semana 45 (del 04 al 10 de Noviembre de 2018), República de El Salvador. Ministerio de Salud, Dirección de Vigilancia Sanitaria.</i>
+    </string>
+    <string name="txt_description2_detalleinfo"><b>Quemaduras leves (primer grado):</b> Enfría la zona afectada bajo agua fría durante unos minutos para aliviar el dolor y reducir la inflamación. Evita el uso de hielo directo, ya que puede dañar la piel. Después, cubre la quemadura con una gasa limpia y aplica una crema hidratante.
+    \n\n<b>Quemaduras más graves (segundo grado):</b> No rompas las ampollas. Busca atención médica si la quemadura cubre un área extensa o está en lugares sensibles como la cara, manos o pies.
+    \n\n<b>Quemaduras de tercer grado:</b> Estas quemaduras son muy serias. Llama a los servicios de emergencia de inmediato. Mientras esperas ayuda, cubre la zona con un paño limpio y seco. No apliques agua ni cremas.
+        \n\n<b>ORIENTACIONES BÁSICAS DE PRIMEROS AUXILIOS</b>
+        \n\n<b>• Detén el proceso de quemadura:</b> Retira la ropa quemada y enfría las áreas afectadas con agua corriente fresca.
+        \n<b>• Si hay llamas:</b> Apaga el fuego haciendo rodar a la persona en el suelo, cubriéndola con una manta o usando agua.
+        \n<b>• Enfría con agua:</b> Usa agua corriente fresca para reducir la temperatura de la quemadura.
+        \n<b>• Quemaduras químicas:</b>  Diluye el agente químico enjuagando con grandes cantidades de agua.
+        \n<b>• Transporte al centro médico:</b>  Envuelve al paciente en un paño o sábana limpia y dirígete al establecimiento de salud más cercano.
+        \n<b>• Prioriza tu seguridad:</b>  No te pongas en peligro al brindar primeros auxilios; asegura tu propia seguridad primero.
+        \n<b>• Evita ciertos productos:</b>  No apliques pomadas, aceites o algodón en bruto sobre la quemadura.
+        \n<b>• Cuidado con el hielo y el agua:</b>  No uses hielo ni mantengas la quemadura en agua por mucho tiempo para evitar hipotermia.
+        \n<b>• No rompas las ampollas:</b>  No rompas las ampollas ni apliques medicación tópica hasta recibir atención médica adecuada.
+        \n\n<i>Fuente: Boletín epidemiológico semana 45 (del 04 al 10 de Noviembre de 2018), República de El Salvador. Ministerio de Salud, Dirección de Vigilancia Sanitaria.</i>
+    </string>
+    <string name="txt_description3_detalleinfo">Las quemaduras de <b>primer grado</b> son las más leves y afectan solo la capa externa de la piel. Para tratarlas, enfría la zona afectada bajo agua fría durante unos minutos para aliviar el dolor y reducir la inflamación. Es importante evitar el uso de hielo directo, ya que podría dañar la piel. Luego, cubre la quemadura con una gasa limpia y aplica una crema hidratante.
+        \n\nLas quemaduras de <b>segundo grado</b> son más graves, dañando tanto la epidermis como la capa inferior de la piel conocida como dermis. Es crucial no romper las ampollas que se formen y buscar atención médica si la quemadura cubre un área extensa o se encuentra en zonas sensibles como la cara, manos o pies.
+        \n\nLas quemaduras de <b>tercer grado</b> son las más severas, afectando todas las capas de la piel y llegando incluso a tejidos más profundos. En estos casos, llama de inmediato a los servicios de emergencia. Mientras esperas ayuda, cubre la zona con un paño limpio y seco, evitando aplicar agua o cremas, ya que estas quemaduras requieren atención médica especializada.
+        \n\n<i>Fuente: Boletín epidemiológico semana 45 (del 04 al 10 de Noviembre de 2018), República de El Salvador. Ministerio de Salud, Dirección de Vigilancia Sanitaria.</i>
+    </string>
+    <string name="txt_description4_detalleinfo">Para la reanimación inicial en pacientes con quemaduras, se emplean diversos esquemas de manejo de líquidos para asegurar el cumplimiento de los requerimientos hidroelectrolíticos, mantener la presión coloidosmótica y coloidoncótica, y reponer los elementos proteínicos plasmáticos y transportadores de oxígeno, todo ajustado a la superficie corporal quemada. Entre estos, la <b>fórmula de Parkland</b> es una de las más utilizadas. Es crucial establecer un <b>esquema de manejo de líquidos individualizado</b> para cada paciente, considerando su estado de conciencia, diagnóstico preciso de la superficie corporal quemada (incluyendo áreas donadoras utilizadas), fase de evolución, repercusión orgánica, función renal, equilibrio electrolítico y ácido-base, niveles de hemoglobina y hematocrito, glicemia, química sanguínea, estado de función renal y pruebas de coagulación.
+    \n\n<i>Fuente: Boletín epidemiológico semana 45 (del 04 al 10 de Noviembre de 2018), República de El Salvador. Ministerio de Salud, Dirección de Vigilancia Sanitaria.</i>
+    </string>
+
+    <!-- Contactos -->
+    <string name="txt_title1_contacto">Comandos de Salvamento</string>
+    <string name="txt_tel1_contacto"><b>Tel:</b> 2133-0000</string>
+    <string name="txt_title2_contacto">Cruz Roja Salvadoreña</string>
+    <string name="txt_tel2_contacto"><b>Tel:</b> 2239-4930</string>
+    <string name="txt_title3_contacto">Cruz Verde Salvadoreña</string>
+    <string name="txt_tel3_contacto"><b>Tel:</b> 2284-5792</string>
+    <string name="txt_title4_contacto">Sistema de Emergencias Médicas</string>
+    <string name="txt_tel4_contacto"><b>Tel:</b> <font color="#D66C4D"><u>132</u></font></string>
+
+</resources>

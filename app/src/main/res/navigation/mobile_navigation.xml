@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/inicioFragment">
+
+    <fragment
+        android:id="@+id/inicioFragment"
+        android:name="com.example.quemaduras_ia.screens.InicioFragment"
+        android:label="fragment_inicio"
+        tools:layout="@layout/fragment_inicio">
+        <action
+            android:id="@+id/action_inicioFragment_to_analisisFragment"
+            app:destination="@id/analisisFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/analisisFragment"
+        android:name="com.example.quemaduras_ia.screens.AnalisisFragment"
+        android:label="fragment_analisis"
+        tools:layout="@layout/fragment_analisis" />
+
+    <fragment
+        android:id="@+id/informacionFragment"
+        android:name="com.example.quemaduras_ia.screens.InformacionFragment"
+        android:label="fragment_informacion"
+        tools:layout="@layout/fragment_informacion">
+        <action
+            android:id="@+id/action_informacionFragment_to_detalleInformacionFragment"
+            app:destination="@id/detalleInformacionFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/detalleInformacionFragment"
+        android:name="com.example.quemaduras_ia.screens.DetalleInformacionFragment"
+        android:label="DetalleInformacionFragment"
+        tools:layout="@layout/fragment_detalle_informacion">
+        <argument
+            android:name="infoId"
+            app:argType="string" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/contactosFragment"
+        android:name="com.example.quemaduras_ia.screens.ContactosFragment"
+        android:label="fragment_contactos"
+        tools:layout="@layout/fragment_contactos" />
+</navigation>

@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Quemaduras_IA" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/naranja_pastel</item>
+
+        <item name="android:statusBarColor">@color/piel</item>
+        <item name="android:navigationBarColor">@color/naranja_pastel</item>
+
+        <item name="android:windowBackground">@color/piel</item>
+    </style>
+
+    <style name="SplashTheme" parent="Base.Theme.Quemaduras_IA">
+        <item name="android:windowBackground">@drawable/splash_screen</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+    <style name="Theme.Quemaduras_IA" parent="Base.Theme.Quemaduras_IA" />
+
+    <style name="App.Custom.Indicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">@color/naranja_indicador</item>
+    </style>
+</resources>
